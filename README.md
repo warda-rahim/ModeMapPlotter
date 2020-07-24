@@ -33,4 +33,4 @@ References
 
 1. <a name="Ref1"></a> J. M. Skelton, L. A. Burton, S. C. Parker, A. Walsh, C.-E. Kim, A. Soon, J. Buckeridge, A. A. Sokol, C. R. A. Catlow, A. Togo and I. Tanaka, "Anharmonicity in the High-Temperature Cmcm Phase of SnSe: Soft Modes and Three-Phonon Interactions", Physical Review Letters **117**, 075502 (**2016**), DOI: [10.1103/PhysRevLett.117.075502](https://doi.org/10.1103/PhysRevLett.117.075502)
 
-2. <a name="Ref2"></a>W. Rahim, J. M. Skelton, C. N. Savory, I. R. Evans, J. S. O. Evans, A. Walsh, D. O. Scanlon, "Polymorph Prediction of Bismuth Stannate Using First-Principles Phonon Mode Mapping", CChemical Science, (**2020**), DOI: [10.1039/D0SC02995E](https://doi.org/10.1039/D0SC02995E)
+2. <a name="Ref2"></a>W. Rahim, J. M. Skelton, C. N. Savory, I. R. Evans, J. S. O. Evans, A. Walsh and D. O. Scanlon, "Polymorph Prediction of Bismuth Stannate Using First-Principles Phonon Mode Mapping", Chemical Science, (**2020**), DOI: [10.1039/D0SC02995E](https://doi.org/10.1039/D0SC02995E)
