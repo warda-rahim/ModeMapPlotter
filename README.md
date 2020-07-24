@@ -5,17 +5,20 @@ A tool for plotting potential-energy surfaces along phonon modes.
 Prerequisites
 -------------
 
-The tool uses the output from the [ModeMap code] (https://github.com/JMSkelton/ModeMap) [Ref. 1](#Ref1)
+The tools use the output from the [ModeMap code] (https://github.com/JMSkelton/ModeMap) [Ref. 1](#Ref1)
 To use it requires a phonon mode-mapping calculation with ModeMap code to have been performed on the system of interest.
 
-The script is written in Python.
+The code is written in Python.
 
 Usage
 -----
 
-The script requires only 1 file `ModeMap_PostProcess.csv` for 1D potential energy curve (PEC) or `ModeMap_PostProcess_2D.csv` for 2D potential energy surface (PES)
+1. The `modemap.py` requires only 1 file `ModeMap_PostProcess.csv` and produces a 1D potential energy curve (PEC).
 
 (It can also plot multiple 1D potential energy curves in a single plot)
+
+2. The `modemap_2D.py` also requires only 1 file `ModeMap_PostProcess_2D.csv` and produces a 2D potential energy surface (PES).
+
 
 Examples
 --------
