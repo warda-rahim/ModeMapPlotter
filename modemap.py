@@ -42,8 +42,6 @@ def add_map(axis, mapfile, colours, qlabel, num_atoms, legendlab):
     """
 
 
-    #files = os.listdir(mapfile)
-
     x_val, y_val = [], []    
         
     for i in mapfile:
